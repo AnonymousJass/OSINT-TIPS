@@ -1,5 +1,21 @@
 # OSINT-TIPS
 
+#  Search Engines
+* ▶ http://advangle.com/
+* ▶ http://www.ask.com/
+* ▶ http://search.aol.com/
+* ▶ http://www.bing.com/
+* ▶ http://gigablast.com/
+* ▶ http://www.goodsearch.com/
+* ▶ http://www.google.com/
+* ▶ http://www.instya.com/
+* ▶ http://www.impersonal.me/
+* ▶ https://www.mojeek.com/
+* ▶ http://www.lycos.com/
+* ▶ http://www.search.com/
+* ▶ http://www.surfcanyon.com/
+* ▶ http://www.wolframalpha.com/
+* ▶ http://www.yahoo.com/
 
 # subdomainfinder
 
@@ -59,4 +75,5 @@
 * ▶ http://karmadecay.com/
 * ▶ https://www.revesesearch.com/
 * ▶ https://www.pixsy.com/
+ 
  
