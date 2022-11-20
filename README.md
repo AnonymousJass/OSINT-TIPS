@@ -16,6 +16,21 @@
 * ▶ http://www.surfcanyon.com/
 * ▶ http://www.wolframalpha.com/
 * ▶ http://www.yahoo.com/
+* ▶ http://www.baidu.com
+* ▶ https://duckduckgo.com
+* ▶ https://www.entireweb.com
+* ▶ https://www.exalead.com/search
+* ▶ http://gigablast.com
+* ▶ http://www.infospace.com
+* ▶ http://www.lycos.com
+* ▶ http://home.mywebsearch.com
+* ▶ https://www.naver.com
+* ▶ https://www.sogou.com
+* ▶ http://soso.com
+* ▶ http://www.teoma.com
+* ▶ http://www.wolframalpha.com
+* ▶ https://www.yandex.com
+
 
 # subdomainfinder
 
@@ -31,7 +46,7 @@
 * ▶ https://www.threatcrowd.org/
 * ▶ https://crt.sh/
 * ▶ https://securityheaders.com/
-* ▶  https://weleakinfo.to/
+* ▶ https://weleakinfo.to/
 * ▶ https://hunter.io/domain-search
 * ▶ https://intelx.io/
 
@@ -73,7 +88,36 @@
 * https://github.com/tdh8316/Investigo
 * https://github.com/woj-ciech/SocialPath
 
+# Meta Search
 
+* 100SearchEngines https://www.100searchengines.com
+* All-in-One http://all-io.net
+* AllTheInternet http://www.alltheinternet.com
+* Bing vs. Google http://bvsg.org
+* Creafy http://www.creafy.com
+* DADgogo http://dadgogo.com
+* Dogpile http://www.dogpile.com
+* Etools http://www.etools.ch
+* Excite https://www.excite.com
+* FaganFinder https://www.faganfinder.com
+* Findwith.me http://www.findwith.me
+* Info.com http://www.info.com
+* iZito http://www.izito.com
+* The Lookup http://the-lookup.com
+* occusearch https://occusearch.net
+* runnaroo https://www.runnaroo.com
+* Search https://www.search.com
+* Search https://search-it.netlify.app
+* SearchAll https://www.searchall.net
+* searchlino https://www.searchlino.com
+* Search-it https://search-it.netlify.app
+* SEARCHtify https://www.searchtify.com
+* SonicRun http://www.sonicrun.com
+* toki https://toki.com
+* WebCrawler http://www.webcrawler.com
+* weboasis https://weboas.is
+* Zapmeta http://www.zapmeta.com 
+* ZUREU http://zureu.com
 
 
 # Search By Photos
