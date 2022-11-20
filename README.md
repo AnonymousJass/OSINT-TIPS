@@ -161,4 +161,89 @@
 * ▶ https://www.revesesearch.com/
 * ▶ https://www.pixsy.com/
  
+ # Code Search 
+* Android Code Search https://cs.android.com
+* Bazel https://cs.opensource.google/bazel
+* Chromium Code Search https://source.chromium.org/chromium
+* Code Finder http://codefinder.org
+* CodeSeek https://www.codeseek.co
+* Codota https://www.codota.com/code
+* Debian Code Search http://codesearch.debian.net
+* Ember Observer: Code Search https://emberobserver.com/code-search
+* Google Code Search https://code.google.com
+* JExample http://jexamples.com
+* krugle http://www.krugle.com
+* Libraries.io https://libraries.io
+* merobase https://merobase.com
+* NerdyData https://search.nerdydata.com
+* Nullege http://nullege.com
+* Open Hub https://www.openhub.net
+* Piwik Code Search http://piwikcodesearch.herokuapp.com
+* PublicWWW https://publicwww.com
+* Programmable Web https://www.programmableweb.com
+* Reference Source Microsoft https://referencesource.microsoft.com
+* Scala https://www.programcreek.com/scala
+* SearchCode https://searchcode.com
+* Snipplr https://snipplr.com
+* SourceCodeOnline http://www.sourcecodeonline.com
+* Sourcegraph https://sourcegraph.com/search
+* Symbol Hound http://symbolhound.com
+* TechQ http://techq.com
+* UnityList https://unitylist.com
+* Woboq https://code.woboq.org
+
+# File and FTP Search
+
+* 4shared https://www.4shared.com
+* Archie http://archie.icm.edu.pl/archie_eng.html
+* Aware Online: File Search https://www.aware-online.com/osint-tools/bestandstypensearch-tool
+* Fagan Finder: Search by File Format http://www.faganfinder.com/filetype
+* FileChef https://www.filechef.com
+* FileSearching http://www.filesearching.com
+* FreewareWeb http://www.freewareweb.com/ftpsearch.shtml
+* Gegereka http://www.gegereka.com
+* Global File Search http://globalfilesearch.com
+* goofile https://tools.kali.org/information-gathering/goofile
+* _IntelligenceX: File https://intelx.io/tools?tab=file
+* Megasearch http://megasearch.co
+* MMNT http://www.mmnt.ru
+* NAPALM FTP Indexer http://www.searchftps.net
+* SearchFiles.de https://searchfiles.de
+* Search Shared https://www.searchshared.info
+* Wenjian http://s.wenjian.ne
+
+# Phone Numbers
+
+* Zaba https://www.zabasearch.com/reverse-phone-lookup/
+* USPhoneBook https://www.usphonebook.com/
+* TruePeopleSearch https://www.truepeoplesearch.com/#
+* Whitepages+ https://whitepages.plus/
+* ThatsThem https://thatsthem.com/
+* TrueCaller https://www.truecaller.com/ 
+* Whitepages https://www.whitepages.com/reverse-phone | Reverse 
+* Phone Lookup 411 https://www.411.com/reverse-phone
+* CellRevealer https://www.cellrevealer.com/
+* FoneFinder http://www.fonefinder.net/
+* WhoCalld https://whocalld.com/
+* SpyDialer https://www.spydialer.com/
+* Searchbug https://www.searchbug.com/tools/
+* NumberGuru https://www.numberguru.com/phone/ 
+* ReverseGenie http://www.reversegenie.com/
+* YellowPages https://people.yellowpages.com/whitepages/?re=SP
+* people search Spokeo https://www.spokeo.com/reverse-phone-lookup
+* PhoneValidator https://www.phonevalidator.com/index.aspx
+* CallerIDTest https://www.calleridtest.com/
+* IMEI https://www.imei.info/
+* IMEI24 https://imei24.com/phone base/ 
+* Sync https://sync.me/
+* Infobel https://www.infobel.com/
+* DialingCode http://www.dialingcode.com/
+* OpenCnam https://www.opencnam.com/
+* TeleFoonGids https://telefoongids.2link.be/
+* ServiceObjects https://www.serviceobjects.com/developers/lookups/
+* geophone-plus WTNG http://www.wtng.info/index.html
+* SeanLawson https://www.seanlawson.net/2019/02/use-chromedeveloper-tools-view-masked-phone-numbers-for-freepeople-search/
+* NANPA https://www.nationalnanpa.com/enas/coCodeReportUnsecured.do?reportType=7
+* Inteltechniques https://inteltechniques.com/osint/menu.phone.html
+ 
  
