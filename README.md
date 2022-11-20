@@ -405,5 +405,4 @@ https://www.onesearch.com/
 * https://github.com/situmorang-com/Whatsapp-GroupContacts-Scraper
 * Whatsapp Monitor https://github.com/ErikTschierschke/WhatsappMonitor
 * whatsfoto https://github.com/zoutepopcorn/whatsfoto
-
-Social Finder https://socialfinder.app
+* Social Finder https://socialfinder.app
