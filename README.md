@@ -52,41 +52,55 @@
 
 # Search by username
 
-* https://checkusernames.com/
-* https://instantusername.com/#/
-* https://whatsmyname.app/
-* https://namecheckup.com/
-* https://namechk.com/
-* https://knowem.com/
-* https://analyzeid.com/username/
-* https://infotracer.com/username-search/
-* https://www.user-searcher.com/
-* https://www.spokeo.com/username-search
-* https://www.idcrawl.com/username
-* https://www.aware-online.com/en/osint-tools/username-search-tool/
-* https://webintmaster.com/blog/webint-tool/instant-username-search/
-* https://usersearch.org/
-* https://inflact.com/tools/instagram-search/
-* https://info-perso.com/gb/username-search
-* https://www.idcrawl.com/
-* https://toolzu.com/search-instagram-profiles/
-* https://www.redditsecrets.com/reddit-user-search/
-* https://www.instafollowers.co/find-instagram-user-id
+* ▶ https://checkusernames.com/
+* ▶ https://instantusername.com/#/
+* ▶ https://whatsmyname.app/
+* ▶ https://namecheckup.com/
+* ▶ https://namechk.com/
+* ▶ https://knowem.com/
+* ▶ https://analyzeid.com/username/
+* ▶ https://infotracer.com/username-search/
+* ▶ https://www.user-searcher.com/
+* ▶ https://www.spokeo.com/username-search
+* ▶ https://www.idcrawl.com/username
+* ▶ https://www.aware-online.com/en/osint-tools/username-search-tool/
+* ▶ https://webintmaster.com/blog/webint-tool/instant-username-search/
+* ▶ https://usersearch.org/
+* ▶ https://inflact.com/tools/instagram-search/
+* ▶ https://info-perso.com/gb/username-search
+* ▶ https://www.idcrawl.com/
+* ▶ https://toolzu.com/search-instagram-profiles/
+* ▶ https://www.redditsecrets.com/reddit-user-search/
+* ▶ https://www.instafollowers.co/find-instagram-user-id
 
 # A list of tools to search accounts by username
 
-* https://github.com/sherlock-project/sherlock
-* https://github.com/soxoj/maigret
-* https://github.com/lanmaster53/recon-ng/
-* https://github.com/thewhiteh4t/nexfil
-* https://github.com/webbreacher/whatsmyname
-* https://github.com/snooppr/snoop
-* https://github.com/wishihab/userrecon
-* https://github.com/meanii/Search4
-* https://github.com/iojw/socialscan
-* https://github.com/mesuutt/sherlock
-* https://github.com/tdh8316/Investigo
-* https://github.com/woj-ciech/SocialPath
+* ▶ https://github.com/sherlock-project/sherlock
+* ▶ https://github.com/soxoj/maigret
+* ▶ https://github.com/lanmaster53/recon-ng/
+* ▶ https://github.com/thewhiteh4t/nexfil
+* ▶ https://github.com/webbreacher/whatsmyname
+* ▶ https://github.com/snooppr/snoop
+* ▶ https://github.com/wishihab/userrecon
+* ▶ https://github.com/meanii/Search4
+* ▶ https://github.com/iojw/socialscan
+* ▶ https://github.com/mesuutt/sherlock
+* ▶ https://github.com/tdh8316/Investigo
+* ▶ https://github.com/woj-ciech/SocialPath
+
+# Popular_search_engines
+
+https://www.ask.com/
+https://start.duckduckgo.com/
+https://www.ecosia.org/
+https://www.google.com/
+https://www.qwant.com/
+https://searx.me/
+https://www.startpage.com/
+https://yandex.com/
+http://search.chongbuluo.com/
+https://magi.com/
+https://www.onesearch.com/
 
 # Meta Search
 
@@ -246,4 +260,150 @@
 * NANPA https://www.nationalnanpa.com/enas/coCodeReportUnsecured.do?reportType=7
 * Inteltechniques https://inteltechniques.com/osint/menu.phone.html
  
- 
+ # Social Media Tools: Twitter
+
+* AccountAnalysis https://accountanalysis.app
+* Affinit Tweet https://affinitweet.com
+* Ads Twitter https://ads.twitter.com/transparency
+* AllDeletedTweets From Politicians https://politwoops.com/countries
+* AllMyTweets https://www.allmytweets.net/connect
+* Aware Online Twitter Search  http://www.aware-online.com/en/osint-tools/twitter-search-tool
+* BirdIQ https://birdiq.net/twitter-search
+* Birdwatcher https://awesomeopensource.com/project/michenriksen/birdwatcher
+* Blue Nod http://bluenod.com
+* Botometer https://botometer.iuni.iu.edu
+* BotSight https://download.botsight.nlok-research.me
+* BotSlayer https://osome.iuni.iu.edu/tools/botslayer
+* Burrrd https://burrrd.com
+* Cawbird https://snapcraft.io/cawbird
+* Charm https://collectcharm.app
+* Chatter https://github.com/visualbasic6/chatter
+* Check for Repeated Posts https://makeadverbsgreatagain.org/allegedly
+* Chorus http://chorusanalytics.co.uk
+* Code of Ninja: Find Twitter ID https://codeofaninja.com/tools/find-twitter-id
+* Commun.it http://commun.it
+* COSMOS http://socialdatalab.net/COSMOS
+* DMI-TCAT https://github.com/digitalmethodsinitiative/dmi-tcat
+* doesfollow https://doesfollow.com
+* DownAlbum https://chrome.google.com/webstore/detail/
+* downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok
+* Download Twitter Video http://www.downloadtwittervideo.com
+* eInsightData https://www.einsightdata.com
+* Export Comments https://exportcomments.com
+* First Tweet http://ctrlq.org/first
+* First Tweet https://irumble.com/firsttweet
+* Foller.me http://foller.me
+* Followers Analysis https://www.followersanalysis.com
+* Followerwonk http://followerwonk.com
+* FollowFly http://followfly.co
+* GetTwitterID http://gettwitterid.com
+* Gigatweeter http://gigatweeter.com
+* Hashtagify http://hashtagify.me
+* Hashtags.org http://www.hashtags.org
+* Help Twitter Law Enforcement Request https://help.twitter.com/forms/lawenforcement
+* _IntelligenceX: Twitter https://intelx.io/tools?tab=twitter
+* iTrended https://itrended.com
+* LessNoise https://www.lessnoise.net
+* ManageFlitter http://manageflitter.com
+* MentionMapp http://mentionmapp.com
+* OneMillionTweetMap http://onemilliontweetmap.com
+* Owlead https://owlead.com
+* Phantom Buster https://phantombuster.com/phantombuster
+* RiteTag https://ritetag.com
+* Same.energy https://same.energy
+* SaveVideo http://savevideo.me
+* Scylla https://github.com/josh0xA/Scylla
+* Secateur https://secateur.app
+
+# Social Media Tools: Facebook
+
+* Agora Pulse http://barometer.agorapulse.com
+* Aware Online: Facebook Search https://www.aware-online.com/osint-tools/facebook-searchtool
+* DownAlbum https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok
+* DumpItBlue https://sourceforge.net/projects/dumpitblue
+* Expand All Facebook Comments http://com.hemiola.com/bookmarklet
+* Export Comments https://exportcomments.com
+* Facebook Ads Library https://www.facebook.com/ads/library
+* Facebook Live https://www.facebook.com/watch/live
+* Facebook Search Engine https://www.social-searcher.com/facebook-search
+* Facebook Transcripts https://github.com/lorenzoromani1983/facebookTranscripts
+* Fanpage Karma http://www.fanpagekarma.com
+* Fb-sleep-stats https://github.com/sqren/fb-sleep-stats
+* Graph Tips http://graph.tips
+* Grouply https://groouply.com
+* _IntelligenceX: Facebook Search https://intelx.io/tools?tab=facebook
+* Lookup-ID.com https://lookup-id.com
+* new-fb-search.md https://gist.github.com/nemec/2ba8afa589032f20e2d6509512381114
+* Osint Support Facebok Chrome Extensions https://osint.support/chrome-extensions
+* Phantom Buster https://phantombuster.com/phantombuster
+
+# Social Media Tools: Instagram
+
+* 4kStogram https://www.4kdownload.com/de/products/product-stogram
+* Aware Online: Instagram Search Tool https://www.aware-online.com/osint-tools/instagram-search-tool
+* Blocked and Banned Instagram Hashtag Search http://thedatapack.com/tools/blocked-hashtag-search
+* Combin https://www.combin.com
+* Command for IG https://commandforig.com
+* Comment Picker https://commentpicker.com
+* Dinsta https://www.dinsta.com
+* Display Purposes https://displaypurposes.com
+* DownAlbum https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok
+* Downloader for Instagram https://chrome.google.com/webstore/detail/downloader-forinstagram/olkpikmlhoaojbbmmpejnimiglejmboe?hl=en
+* DownloadGram https://downloadgram.com
+* Everliker Standalone https://chrome.google.com/webstore/detail/everliker-standalonesoci/nbohdphjekodehfnilakihailcpjcdkm
+* Export Comments https://exportcomments.com
+* Export List of Followers from Instagram https://chrome.google.com/webstore/detail/export-list-offollowers/hcdbfckhdcpepllecbkaaojfgipnpbpb
+* Find Instagram User ID https://codeofaninja.com/tools/find-instagram-user-id
+* Gramfind http://gramfind.com
+* GrowBot Automator for Instagram https://chrome.google.com/webstore/detail/growbot-automator-forins/abhcgokmndbiegmmbjffdlpihgdmeejf?hl=es-419
+* Hashtagify http://hashtagify.me
+* Hashtags for Likes https://www.hashtagsforlikes.co
+* Helper Tools for Instagram https://chrome.google.com/webstore/detail/helper-tools-forinstagra/hcdbfckhdcpepllecbkaaojfgipnpbpb
+* HypeAuditor https://hypeauditor.com
+* Iconosquare http://iconosquare.com
+* igpublicalert https://igpublicalert.ga
+* IGSuperStar https://igsuperstar.com
+* Imgbunk https://imgbunk.com
+* ImgInn https://imginn.com
+* Influencer Marketing Analytics by WeFind https://chrome.google.com/webstore/detail/influencer-marketinganal/kiadoddngdeggkkmlaedmhghhoigccpf?hl=en-US
+* INSSIST https://chrome.google.com/webstore/detail/inssist-post-stories-dmw/bcocdbombenodlegijagbhdjbifpiijp
+* Instadp https://www.instadp.com
+* InstaFollowers https://www.instafollowers.co
+* Insta Gone Public Alert https://igpublicalert.ga
+* Instagram Crawler https://github.com/hehpollon/Instagram-Crawler
+* Instagram  Explorer https://www.osintcombine.com/instagram-explorer
+* Instagram OSINT https://github.com/sc1341/InstagramOSINT
+
+# Social Media Tools: Snapchat
+
+* addmeContacts http://add-me-contacts.com
+* AddMeSnaps https://www.addmesnaps.com
+* ChatToday https://chattoday.com
+* Dizkover https://www.dizkover.com
+* Gebruikersnamen: Snapchat https://gebruikersnamen.nl/snapchat
+* GhostCodes https://www.ghostcodes.com
+* Listchats https://www.listchats.com
+* OSINT Combine: Snapchat MultiViewer https://www.osintcombine.com/snapchat-multi-viewer
+* snapdex https://www.snapdex.com
+* Snap Map https://map.snapchat.com
+* Snapchat-mapscraper
+* https://github.com/nemec/snapchat-map-scraper
+* Snapmap-dl https://github.com/sdushantha/snapmap-dl
+* Snap Nickname https://snapnickname.com
+* Snap Political Ads  Library
+* https://www.snap.com/en-GB/political-ads
+* SnapStory https://github.com/sdushantha/SnapStory
+* Snapyfox https://snapyfox.com
+
+# Social Media Tools: WhatsApp
+
+* checkwa https://checkwa.online
+* Listchats https://www.listchats.com
+* WhatsAllApp https://github.com/LoranKloeze/WhatsAllApp
+* WhatsApp Fake Chat http://www.fakewhats.com/generator
+* Whatsapp-GroupContacts-Scraper
+* https://github.com/situmorang-com/Whatsapp-GroupContacts-Scraper
+* Whatsapp Monitor https://github.com/ErikTschierschke/WhatsappMonitor
+* whatsfoto https://github.com/zoutepopcorn/whatsfoto
+
+Social Finder https://socialfinder.app
