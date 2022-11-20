@@ -35,6 +35,47 @@
 * ▶ https://hunter.io/domain-search
 * ▶ https://intelx.io/
 
+# Search by username
+
+* https://checkusernames.com/
+* https://instantusername.com/#/
+* https://whatsmyname.app/
+* https://namecheckup.com/
+* https://namechk.com/
+* https://knowem.com/
+* https://analyzeid.com/username/
+* https://infotracer.com/username-search/
+* https://www.user-searcher.com/
+* https://www.spokeo.com/username-search
+* https://www.idcrawl.com/username
+* https://www.aware-online.com/en/osint-tools/username-search-tool/
+* https://webintmaster.com/blog/webint-tool/instant-username-search/
+* https://usersearch.org/
+* https://inflact.com/tools/instagram-search/
+* https://info-perso.com/gb/username-search
+* https://www.idcrawl.com/
+* https://toolzu.com/search-instagram-profiles/
+* https://www.redditsecrets.com/reddit-user-search/
+* https://www.instafollowers.co/find-instagram-user-id
+
+# A list of tools to search accounts by username
+
+* https://github.com/sherlock-project/sherlock
+* https://github.com/soxoj/maigret
+* https://github.com/lanmaster53/recon-ng/
+* https://github.com/thewhiteh4t/nexfil
+* https://github.com/webbreacher/whatsmyname
+* https://github.com/snooppr/snoop
+* https://github.com/wishihab/userrecon
+* https://github.com/meanii/Search4
+* https://github.com/iojw/socialscan
+* https://github.com/mesuutt/sherlock
+* https://github.com/tdh8316/Investigo
+* https://github.com/woj-ciech/SocialPath
+
+
+
+
 # Search By Photos
 
 * ▶ http://searchface.ru/ 
