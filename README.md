@@ -401,8 +401,7 @@ https://www.onesearch.com/
 * Listchats https://www.listchats.com
 * WhatsAllApp https://github.com/LoranKloeze/WhatsAllApp
 * WhatsApp Fake Chat http://www.fakewhats.com/generator
-* Whatsapp-GroupContacts-Scraper
-* https://github.com/situmorang-com/Whatsapp-GroupContacts-Scraper
+* Whatsapp-GroupContacts-Scraper https://github.com/situmorang-com/Whatsapp-GroupContacts-Scraper
 * Whatsapp Monitor https://github.com/ErikTschierschke/WhatsappMonitor
 * whatsfoto https://github.com/zoutepopcorn/whatsfoto
 * Social Finder https://socialfinder.app
