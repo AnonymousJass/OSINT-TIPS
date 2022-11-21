@@ -90,17 +90,17 @@
 
 # Popular_search_engines
 
-https://www.ask.com/
-https://start.duckduckgo.com/
-https://www.ecosia.org/
-https://www.google.com/
-https://www.qwant.com/
-https://searx.me/
-https://www.startpage.com/
-https://yandex.com/
-http://search.chongbuluo.com/
-https://magi.com/
-https://www.onesearch.com/
+* https://www.ask.com/
+* https://start.duckduckgo.com/
+* https://www.ecosia.org/
+* https://www.google.com/
+* https://www.qwant.com/
+* https://searx.me/
+* https://www.startpage.com/
+* https://yandex.com/
+* http://search.chongbuluo.com/
+* https://magi.com/
+* https://www.onesearch.com/
 
 # Meta Search
 
